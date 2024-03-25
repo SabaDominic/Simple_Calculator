@@ -1,0 +1,20 @@
+{
+  "name": "mp4_simple_calculator",
+  "version": "1.0.0",
+  "description": "A simple calculator with Typescript, Node.js and Inquirer",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SABA",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.16",
+    "mp4_simple_calculator": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
